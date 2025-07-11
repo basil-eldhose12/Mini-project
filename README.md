@@ -1,2 +1,2 @@
 # Mini-project
-GESS
+Localconnect
